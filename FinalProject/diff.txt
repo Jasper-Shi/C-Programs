@@ -1,0 +1,10 @@
+
+In line number 1 of your output:
+The output should be:
+***********Testing saveItem:
+But your output is: 
+
+^
+|
+Professor's character ASCII code: hex(2a), dec(42)
+un-matched character ASCII code: hex(0), dec(0)

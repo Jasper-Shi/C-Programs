@@ -1,0 +1,15 @@
+Citation:
+If you have used any code or logic developed by others in your solution, you must identify the source of that code or logic in comments in your source code.
+You must insert these comments at the place in your source code where the code/logic is being used.
+You must also copy and list this information in comments.txt.
+Failure to identify any code or logic developed by others and included in your solution will result in an assessment of plagiarism by your professor.
+Enhancements:
+If you have enhanced your solution with any features not in the specifications, you should identify them clearly through comments in your source code.
+You should also copy and list this information in comnments.txt.
+
+
+
+sku = getIntLimited(SKU_MIN, SKU_MAX); //use the logic from Yuansheng Lu
+void displayItem(const struct Item item,int linear);    //use the logic from Yuansheng Lu
+void listItems(const struct Item item[], int noOfItems){  //use logic from a tutor in seneca learning center
+int locateItem(const struct Item item[], int NoOfRecs, int sku, int* index){  //use logic from a tutor in seneca learning center

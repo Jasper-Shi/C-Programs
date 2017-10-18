@@ -1,0 +1,52 @@
+***********Testing saveItem:
+Your saveItem saved the following in test.txt: 
+275,10,2,4.40,0,Royal Gala Apples
+386,20,4,5.99,0,Honeydew Melon
+240,30,5,3.99,0,Blueberries
+*******************************
+They have to match the following:
+275,10,2,4.40,0,Royal Gala Apples
+386,20,4,5.99,0,Honeydew Melon
+240,30,5,3.99,0,Blueberries
+***********END Testing saveItem!
+
+
+***********Testing loadItem:
+Your loadItem loaded the following from test.txt: 
+|275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|
+|386|Honeydew Melon      |    5.99|   No|  20 |   4 |      119.80|
+|240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+*******************************
+They have to match the following:
+|275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|
+|386|Honeydew Melon      |    5.99|   No|  20 |   4 |      119.80|
+|240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+***********END Testing loadItem!
+
+
+***********Testing saveItems:
+Your saveItems saved the following in test.txt: 
+275,10,2,4.40,0,Royal Gala Apples
+386,20,4,5.99,0,Honeydew Melon
+240,30,5,3.99,0,Blueberries
+*******************************
+They have to match the following:
+275,10,2,4.40,0,Royal Gala Apples
+386,20,4,5.99,0,Honeydew Melon
+240,30,5,3.99,0,Blueberries
+***********END Testing saveItems!
+
+
+***********Testing loadItems:
+Your loadItems loaded the following from test.txt: 
+|275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|
+|386|Honeydew Melon      |    5.99|   No|  20 |   4 |      119.80|
+|240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+*******************************
+They have to match the following:
+|275|Royal Gala Apples   |    4.40|   No|  10 |   2 |       44.00|
+|386|Honeydew Melon      |    5.99|   No|  20 |   4 |      119.80|
+|240|Blueberries         |    3.99|   No|  30 |   5 |      119.70|
+***********END Testing loadItems!
+
+

@@ -1,0 +1,10 @@
+
+In line number 156 of your output:
+The output should be:
+20  |888|x                   |    1.00|  Yes|   1 |   1 |        1.13|***
+But your output is: 
+20  |888|x                   |    1.00|  Yes|   1 |   1 |        1.13|
+                                                                      ^
+----------------------------------------------------------------------|
+Professor's character ASCII code: hex(2a), dec(42)
+un-matched character ASCII code: hex(d), dec(13)
